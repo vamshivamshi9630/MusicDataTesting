@@ -1,62 +1,32 @@
 [
   {
+    "album": "Kalki_Album",
     "title": "Bhairava Anthem",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Bhairava%20Anthem.mp3"
   },
   {
+    "album": "Kalki_Album",
     "title": "Bujji Theme",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Bujji%20Theme.mp3"
   },
   {
-    "title": "Hope of Shambala",
-    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Hope%20of%20Shambala.mp3"
+    "album": "Coolie_Album",
+    "title": "Chikitu",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Chikitu.mp3"
   },
   {
-    "title": "Keshava Madhava",
-    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Keshava%20Madhava.mp3"
+    "album": "Coolie_Album",
+    "title": "Coolie Disco",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Coolie%20Disco.mp3"
   },
   {
-    "title": "Ta Takkara",
-    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Ta%20Takkara.mp3"
+    "album": "Coolie_Album",
+    "title": "Monica",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Monica.mp3"
   },
   {
-    "title": "SoundHelix Song 1",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-  },
-  {
-    "title": "SoundHelix Song 2",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
-  },
-  {
-    "title": "SoundHelix Song 3",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
-  },
-  {
-    "title": "SoundHelix Song 4",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
-  },
-  {
-    "title": "SoundHelix Song 5",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
-  },
-  {
-    "title": "SoundHelix Song 6",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
-  },
-  {
-    "title": "SoundHelix Song 7",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
-  },
-  {
-    "title": "SoundHelix Song 8",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
-  },
-  {
-    "title": "SoundHelix Song 9",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
-  },
-  {
-    "title": "SoundHelix Song 10",
-    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    "album": "Coolie_Album",
+    "title": "Power House",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Power%20House.mp3"
   }
 ]
