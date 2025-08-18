@@ -1,32 +1,32 @@
 [
   {
     "album": "Kalki_Album",
-    "title": "Bhairava Anthem",
+    "name": "Bhairava Anthem",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Bhairava%20Anthem.mp3"
   },
   {
     "album": "Kalki_Album",
-    "title": "Bujji Theme",
+    "name": "Bujji Theme",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Kalki%20_Album/Bujji%20Theme.mp3"
   },
   {
     "album": "Coolie_Album",
-    "title": "Chikitu",
+    "name": "Chikitu",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Chikitu.mp3"
   },
   {
     "album": "Coolie_Album",
-    "title": "Coolie Disco",
+    "name": "Coolie Disco",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Coolie%20Disco.mp3"
   },
   {
     "album": "Coolie_Album",
-    "title": "Monica",
+    "name": "Monica",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Monica.mp3"
   },
   {
     "album": "Coolie_Album",
-    "title": "Power House",
+    "name": "Power House",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Power%20House.mp3"
   }
 ]
