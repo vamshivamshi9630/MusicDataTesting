@@ -1,10 +1,10 @@
 [
   {
-    "album": "Coolie_Album",
-    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/refs/heads/main/Coolie_Album/Coolie.png",
-    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Coolie_Album/Chikitu.mp3",
-    "name": "Chikitu"
-  },
+  "album": "Coolie_Album",
+  "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie_Album/Coolie.png",
+  "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Coolie_Album/Chikitu.mp3",
+  "name": "Chikitu"
+},
   {
     "album": "Coolie_Album",
     "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/refs/heads/main/Coolie_Album/Coolie.png",
