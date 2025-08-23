@@ -7,7 +7,8 @@ try:
 except ImportError:
     from urllib.parse import quote  # Python 3
 
-BASE_URL = "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/"
+#BASE_URL = "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/"
+BASE_URL = "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/"
 OUTPUT_FILE = "songs.json"
 
 # Load existing data if available
