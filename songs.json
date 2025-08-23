@@ -1,5 +1,71 @@
 [
   {
+    "name": "Ala Nemaliki (Promo)",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Ala%20Nemaliki%20%28Promo%29.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Eppudo Ninnu",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Eppudo%20Ninnu.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Inthandham",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Inthandham.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Kaanunna Kalyanam",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Kaanunna%20Kalyanam.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Nene Aa Nene",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Nene%20Aa%20Nene.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Ninnati Theepi",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Ninnati%20Theepi.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Oh Prema",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Oh%20Prema.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Oh Sita Hey Rama",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Oh%20Sita%20Hey%20Rama.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Sita Ramam Theme",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Sita%20Ramam%20Theme.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Tharali Tharali",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Tharali%20Tharali.mp3",
+    "albumImageUrl": null
+  },
+  {
+    "name": "Yevarini Adaganu",
+    "album": "SitaRamam_Album",
+    "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/SitaRamam_Album/Yevarini%20Adaganu.mp3",
+    "albumImageUrl": null
+  },
+  {
     "name": "Dakko Dakko Meka",
     "album": "Pushpa_Album",
     "url": "https://github.com/vamshivamshi9630/MusicData/raw/refs/heads/main/Pushpa_Album/Dakko%20Dakko%20Meka.mp3",
