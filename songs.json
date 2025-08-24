@@ -1,5 +1,125 @@
 [
   {
+    "name": "Athiloka Sundari",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Athiloka%20Sundari.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "Blockbuster",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Blockbuster.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "Private Party",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Private%20Party.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "Sarrainodu",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "Telusaa Telusaa",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Telusaa%20Telusaa.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "You Are My Mla",
+    "album": "Sarrainodu",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/You%20Are%20My%20Mla.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Sarrainodu/Sarrainodu.png"
+  },
+  {
+    "name": "Bhoochadae",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Bhoochadae.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Cinema Choopistha Mama",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Cinema%20Choopistha%20Mama.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Down Down Duppa",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Down%20Down%20Duppa.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Gala Gala",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Gala%20Gala.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Race Gurram",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Race%20Gurram.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Sweety",
+    "album": "RaceGurram",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/Sweety.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/RaceGurram/RaceGurram.png"
+  },
+  {
+    "name": "Ayila Ayila",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ayila%20Ayila.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Ladiyo",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Ladiyo.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Nuvvunte Naa Jathagaa (Reprise)",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa%20%28Reprise%29.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Nuvvunte Naa Jathagaa",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Nuvvunte%20Naa%20Jathagaa.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Pareshanayya",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Pareshanayya.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Poolane Kunukeyamantaa",
+    "album": "I",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/Poolane%20Kunukeyamantaa.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/I/I.png"
+  },
+  {
+    "name": "Poratame 2",
+    "album": "Hit2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Poratame%202.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Hit2.png"
+  },
+  {
+    "name": "Urike Urike",
+    "album": "Hit2",
+    "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Urike%20Urike.mp3",
+    "albumImageUrl": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/Hit2/Hit2.png"
+  },
+  {
     "name": "Kabir Theme Reloaded",
     "album": "War2",
     "url": "https://raw.githubusercontent.com/vamshivamshi9630/MusicData/main/War2/Kabir%20Theme%20Reloaded.mp3",
